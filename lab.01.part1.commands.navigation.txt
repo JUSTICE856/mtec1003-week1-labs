@@ -92,7 +92,8 @@ Copy and paste the first *two lines* of output below.
 $ ls doesnotexist
 
 Copy and paste the output below.
-----------
+ls: cannot access 'doesnotexist': No such file or directory
+
 
 
 
@@ -101,7 +102,7 @@ Copy and paste the output below.
 
 ==========
 5.  What key do I press to go to the previous command?
-----------
+the up arrow on my keyboard 
 
 
 
@@ -110,7 +111,8 @@ Copy and paste the output below.
 
 ==========
 6.  Name two flags that we used in this exercise.
-----------
+-l (list the LONG form of all the files)
+-a (list ALL files, including the hidden ones!)
 
 
 
@@ -119,7 +121,7 @@ Copy and paste the output below.
 
 ==========
 7.  What was the main command that we used throughout this exercise?
-----------
+ls(list all them files)
 
 
 
@@ -128,7 +130,7 @@ Copy and paste the output below.
 
 ==========
 8.  What's one an argument that we've so far passed to a command?
-----------
+Does not exist
 
 
 
@@ -141,7 +143,7 @@ Copy and paste the output below.
 $ foo<ENTER>
 
 Copy and paste the output below.
-----------
+bash: foo: command not found
 
 
 
@@ -154,7 +156,8 @@ Copy and paste the output below.
 <UP><ENTER>
 
 Copy and paste the output below.
-----------
+bash: foo: command not found
+
 
 
 
@@ -167,8 +170,11 @@ Copy and paste the output below.
 $ ls -a Desktop
 
 Identify the command, flag, argument, and prompt:
-----------
 
+command:ls
+flag:-a
+argument:Desktop
+prompt:$
 
 
 
