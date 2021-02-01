@@ -189,18 +189,18 @@ Follow the instructions line-by-line.
 ==========
 
 ==========
-12. Open a new terminal window. Create a directory called mtec1002. What command did you use?
-----------
+12. Open a new terminal window. Create a directory called mtec1003. What command did you use?
 
+mkdir 
 
 
 
 
 
 ==========
-13. Change your directory so that you're in mtec1002. What command did you use?
-----------
+13. Change your directory so that you're in mtec1003. What command did you use?
 
+cd
 
 
 
@@ -216,7 +216,9 @@ Check that the output ends with mtec1002 (something like this: /Users/joe/mtec10
 If it doesn't ask for help before moving on!
 
 Copy and paste the output of pwd below.
-----------
+
+/c/Users/ndukw/mtec1003
+
 
 
 
@@ -230,7 +232,8 @@ $ mkdir animals
 $ ls
 
 Copy and paste the output below.
-----------
+animals/
+
 
 
 
@@ -246,6 +249,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
+animals/  food/
 
 
 
@@ -259,7 +263,9 @@ $ ls
 
 Copy and paste the output below.
 ----------
+animals/  foo/  food/
 
+(-p flag is RECURSIVE - meaning recursircvley NEST one folder inside another...)
 
 
 
@@ -273,6 +279,8 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/c/Users/ndukw/mtec1003/foo/bar/baz/qux
+
 
 
 
