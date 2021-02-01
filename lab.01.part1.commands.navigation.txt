@@ -555,7 +555,7 @@ pwd
 ----------
 
 
-cd
+tilde
 
 
 
@@ -580,3 +580,4 @@ collection or storage of files mainly for a easier acsess to reach your desinate
 ==========
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/Users/username/Downloads
