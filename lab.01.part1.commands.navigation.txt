@@ -14,7 +14,42 @@ Follow the instructions line-by-line.
 $ ls<ENTER>
 
 Copy and paste the output of ls below.
-----------
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{722bb0cc-ebc2-11e9-9498-00155df63b63}.TM.blf
+ NTUSER.DAT{722bb0cc-ebc2-11e9-9498-00155df63b63}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{722bb0cc-ebc2-11e9-9498-00155df63b63}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ anaconda3/
+ debug.log
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
 
 
 
@@ -27,7 +62,9 @@ Copy and paste the output of ls below.
 $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
-----------
+drwxr-xr-x 1 ndukw 197609       0 Dec 20 07:19 '3D Objects'/
+drwxr-xr-x 1 ndukw 197609       0 Apr 25  2020  AppData/
+
 
 
 
@@ -40,7 +77,9 @@ Copy and paste the first *two lines* of output below.
 $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
-----------
+ ./                         'Drawing;TITLE BLOCK.dwg'
+ ../                         EEEEEEE.pdf
+
 
 
 
