@@ -14,18 +14,19 @@ Feel free to use your workstation to test your answers to the questions that don
 ==========
 1. Write the command that you would use to change to the root directory.
 ----------
-
+/
 
 
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
-
+~
 
 
 ==========
 3. What's the absolute path to your Desktop directory?
 ----------
+/users/student/Desktop
 
 
 
@@ -33,7 +34,7 @@ Feel free to use your workstation to test your answers to the questions that don
 4. If you're in your home directory, how would you create a new directory on your desktop
 called stuff without changing your directory?  Write your command below.
 ----------
-
+mkdir
 
 
 
@@ -41,12 +42,12 @@ called stuff without changing your directory?  Write your command below.
 5. If you're in your Desktop directory, how would you change to two directories right above it (again, this should be /Users) using a relative path?  Write your command below.
 ----------
 
-
+../..
 
 ==========
 6. What's the shortcut for changing to the directory that you were just previously in?  For example, if I were in /Volumes... and I changed to /Users/professor/Desktop, what's a quick way of changing to /Volumes without writing something like cd /Volumes?
 ----------
-
+-(dash)
 
 
 ==========
@@ -54,7 +55,7 @@ called stuff without changing your directory?  Write your command below.
 for all files on your Desktop — if you're currently in your home directory?  Write your command below.
 ----------
 
-
+-a
 
 ==========
 Part 2 - Output, Download and Uncompress
