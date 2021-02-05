@@ -458,7 +458,7 @@ lemon
 Write the one command you used below:
 ----------
 
-
+mkdir -p
 
 
 
@@ -470,7 +470,7 @@ Write the command you used to create the directory below:
 ----------
 
 
-
+mkdir
 
 
 
@@ -555,7 +555,7 @@ pwd
 ----------
 
 
-tilde
+~ tilde
 
 
 
